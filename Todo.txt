@@ -2,6 +2,8 @@ Research:
 -Model View Control
 -API for Xamarin to interface with LAMPSTACK
 
-Tutorials:
+Tutorials/Setup for LAMPSTACK:
 -http://www.ibm.com/developerworks/web/tutorials/wa-lamp/wa-lamp.html
+-http://www.instructables.com/id/Turning-your-Raspberry-Pi-into-a-personal-web-serv/
+-https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
 
