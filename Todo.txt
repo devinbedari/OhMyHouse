@@ -1,0 +1,7 @@
+Research:
+-Model View Control
+-API for Xamarin to interface with LAMPSTACK
+
+Tutorials:
+-http://www.ibm.com/developerworks/web/tutorials/wa-lamp/wa-lamp.html
+
