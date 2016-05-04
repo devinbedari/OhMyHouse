@@ -2,6 +2,9 @@ Research:
 -Model View Control
 -API for Xamarin to interface with LAMPSTACK
 
+MVC Tutorial:
+-http://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488
+
 Tutorials/Setup for LAMPSTACK:
 -http://www.ibm.com/developerworks/web/tutorials/wa-lamp/wa-lamp.html
 -http://www.instructables.com/id/Turning-your-Raspberry-Pi-into-a-personal-web-serv/
